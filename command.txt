@@ -1,0 +1,1 @@
+sudo /sbin/service dsmcad start && /sbin/chkconfig --list && sudo /sbin/chkconfig --add dsmcad &&
